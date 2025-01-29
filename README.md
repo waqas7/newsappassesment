@@ -1,4 +1,6 @@
-# NewsApp Asspi.orgesment for Internship at Markeble by Muhammad Waqas Khan
+# NewsApp Assesment 
+## for Internship at Markeble 
+### by Muhammad Waqas Khan
 
 A bit overview, it uses news API to get news and get JSON data back. Then it is parsed using google's gson library and the requests are sent by Retrofit.
 
