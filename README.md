@@ -4,7 +4,7 @@
 
 A bit overview, it uses news API to get news and get JSON data back. Then it is parsed using google's gson library and the requests are sent by Retrofit.
 
-#### Note: To run the app you have to add [NewsAPI.org](https://newsapi.org/register) key. I have taken this step to due to limited access to daily request for News. Getting a key would take just few seconds :)
+#### Got NewAPI Key from https://newsapi.org
 
 - ##### Home
 <img src="main_screen.png" width="40%">
