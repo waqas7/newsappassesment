@@ -5,7 +5,7 @@ A bit overview, it uses news API to get news and get JSON data back. Then it is 
 #### Note: To run the app you have to add [NewsAPI.org](https://newsapi.org/register) key. I have taken this step to due to limited access to daily request for News. Getting a key would take just few seconds :)
 
 - ##### Home
-<img src="app.gif" width="40%">
+<img src="main_screen.png" width="40%">
 
 - ##### Widget
 <img src="widget.gif" width="40%">
