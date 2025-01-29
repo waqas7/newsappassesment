@@ -6,16 +6,17 @@ A bit overview, it uses news API to get news and get JSON data back. Then it is 
 
 #### Got NewAPI Key from https://newsapi.org
 
-- ##### Home
+##### Home
 <img src="main_screen.png" width="40%">
- ##### Home
+
+#### To bookmark
 <img src="tobookmark.png" width="40%">
- ##### Home
+
+ ##### Show Bookmarks
 <img src="bookmarks.png" width="40%">
- ##### Home
+
+ ##### Full Story
 <img src="fullstory.png" width="40%">
-- ##### Widget
-<img src="widget.gif" width="40%">
 
 #### Libraries
 - [Google gson](https://github.com/google/gson) For parsing JSON data
