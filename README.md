@@ -20,7 +20,8 @@ A bit overview, it uses news API to get news and get JSON data back. Then it is 
 
 
 ##### video
-<video src="newsappsave.mp4" width="40%">
+<video src="newsappsave.mp4" width="40%"/>
+
 
 #### Libraries
 - [Google gson](https://github.com/google/gson) For parsing JSON data
