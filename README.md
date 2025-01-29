@@ -6,7 +6,9 @@ A bit overview, it uses news API to get news and get JSON data back. Then it is 
 
 - ##### Home
 <img src="main_screen.png" width="40%">
-
+<img src="tobookmark.png" width="40%">
+<img src="bookmarks.png" width="40%">
+<img src="fullstory.png" width="40%">
 - ##### Widget
 <img src="widget.gif" width="40%">
 
