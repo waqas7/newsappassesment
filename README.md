@@ -6,7 +6,7 @@ A bit overview, it uses news API to get news and get JSON data back. Then it is 
 
 - ##### Home
 <img src="main_screen.png" width="40%">
-
+![screenshot](drawable/main_screen.png)
 - ##### Widget
 <img src="widget.gif" width="40%">
 
