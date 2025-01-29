@@ -18,6 +18,7 @@ A bit overview, it uses news API to get news and get JSON data back. Then it is 
  ##### Full Story
 <img src="fullstory.png" width="40%">
 
+
 #### Libraries
 - [Google gson](https://github.com/google/gson) For parsing JSON data
 - [Retrofit](http://square.github.io/retrofit/) For sending network requests
